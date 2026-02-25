@@ -1,6 +1,15 @@
 
 # 🏫 Mini Project (Sistem Pendaftaran Lomba Sekolah)
 
+### Anggota Kelompok:
+- [Mochamad Naufal Hanif](www.linkedin.com/in/mochamad-naufal-hanif-652ab23a5)
+- [Keiyla Adya Azzani](www.linkedin.com/in/keiyla-adya-azzani-a75ab53a5)
+- [Rinzani Fauziah](www.linkedin.com/in/rinzani-fauziah-9919383a5)
+
+**Kelas: XI RPL 1**
+
+---
+
 ## Deskripsi Proyek
 
 Proyek ini merupakan mini project basis data **Sistem Pendaftaran Lomba Sekolah** yang dibuat menggunakan **MariaDB**. Sistem ini bertujuan untuk mengelola data peserta, data lomba, serta data pendaftaran peserta ke lomba secara terstruktur. Dengan sistem ini, proses pendaftaran lomba dapat dicatat dengan rapi dan mudah ditampilkan kembali menggunakan query database.
