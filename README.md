@@ -1,4 +1,4 @@
-[Mochamad Naufal Hanif - LinkedIn](www.linkedin.com/in/mochamad-naufal-hanif-652ab23a5)
+www.linkedin.com/in/mochamad-naufal-hanif-652ab23a5
 # 🏫 Mini Project (Sistem Pendaftaran Lomba Sekolah)
 
 ### Anggota Kelompok 4:
