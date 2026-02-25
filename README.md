@@ -352,7 +352,7 @@ select count(*) as jumlah_pendaftaran from pendaftaran;
 | jumlah_pendaftaran  |
 |-------------------- | 
 |         9           |
-| |
+
 ---
 
 ### 🔹MIN 
@@ -364,7 +364,6 @@ select min(tanggal_daftar) as pendaftaran_pertama from pendaftaran;
 | pendaftaran_pertama |
 |---------------------|
 | 2026-02-01          |
-||
 
 ---
 
@@ -377,7 +376,6 @@ select max(tanggal_daftar) as pendaftaran_terakhir from pendaftaran;
 | pendaftaran_pertama |
 |---------------------|
 | 2026-02-05          |
-||
 
 ---
 
